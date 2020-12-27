@@ -1,0 +1,10 @@
+    <meta property="og:title" content="Internal-Comms" />
+    <meta
+      property="og:description"
+      content="Simple ticketing system for small businesses"
+    />
+    <meta
+      property="og:image"
+      content="https://internalcomms.tech/static/media/background.09e39a63.jpg"
+    />
+    <meta property="og:url" content="https://internalcomms.tech" />

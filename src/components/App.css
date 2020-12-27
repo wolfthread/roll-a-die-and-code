@@ -1,0 +1,18 @@
+* {
+  font-family: monospace, sans-serif;
+  color: lightgrey;
+}
+
+body {
+  position: relative;
+  background: url("../img/background.jpg") no-repeat;
+  background-blend-mode: luminosity;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+}
+
+#blinkingCursor {
+  font-size: 2rem;
+  font-weight: bold;
+}
